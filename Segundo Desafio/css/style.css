@@ -1,0 +1,55 @@
+body{
+	background-color: #94b8b8;
+}
+h1{
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Roboto Mono', monospace;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+
+}
+
+.negrita{
+	font-weight: bold;
+}
+h2{
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Roboto Mono', monospace;
+	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
+	color: #6C3483;
+	font-style: italic;
+}
+
+p{
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Roboto Mono', monospace;
+	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Nanum Gothic', sans-serif;
+	line-height: 1em;
+	
+}
+
+.historia p{
+	color: #293d3d;
+}
+
+.historia{
+	text-align: left;
+}
+
+.islas{
+	text-align: right;
+}
+
+.islas h2{
+	text-align: left;
+}
+
+img{
+
+	display: block;
+	border: 0.5em solid white;
+
+}
