@@ -1,0 +1,143 @@
+nav{
+	text-align: center;
+	background: #FDEDEC;
+}
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0.5em 2em;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Cuprum', sans-serif;
+	font-size: 2em;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	line-height: 3em;
+	font-weight: bold;
+	font-size: 5em;
+	color:#283747;
+
+}
+
+body{
+	background: #F1948A;
+
+}
+
+h2{
+	font-family: 'Cuprum', sans-serif;
+	margin-top: 2em;
+	font-size: 2em;
+}
+
+.show {
+	max-height: 22em;
+	display: inline-block;
+	float: left;
+	background: #FDEDEC;
+	padding: 0em 3em;
+}
+
+.show h3{
+	 color:#512E5F;
+	 font-family: 'Shadows Into Light Two', cursive;
+	 font-size: 1.5em;
+	 text-decoration: underline;
+
+}
+
+.show span{
+	text-decoration: none;
+	color:#512E5F;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 1.5em;
+	display: inline;
+	text-align: center;
+	 
+}
+
+.ubicacion{
+	max-height: 22em;
+	display: inline-block;
+	float: left;
+	padding: 1em 3em;
+}
+
+.biografia{
+
+	color:#4A235A;
+	font-family: 'Rufina', serif;
+	font-size: 1.25em;
+	
+}
+
+.foto {
+	 text-align: center;
+}
+
+.foto img{
+	border: 0.25em solid white;
+
+}
+
+.video{
+	text-align: center;
+}
+
+.discos th {
+	font-weight: bold;
+	font-family: 'Stylish', sans-serif;
+	font-size: 1.5em;
+	border: 0.10em solid #512E5F;;
+	color:#512E5F;
+
+}
+
+.discos table tr td ul li {
+	list-style-type: none;
+	font-family: 'Rancho', cursive;
+	font-size: 1.25em;
+	color:#512E5F;
+
+}
+
+.discos table tr td ol li{
+	font-family: 'Rancho', cursive;
+	font-size: 1.25em;
+	color:#512E5F;
+}
+
+.discos table tr td p{
+	font-family: 'Rancho', cursive;
+	font-size: 1.25em;
+	color:#512E5F;
+}
+
+.discos table tr td img{
+	border:0.1em solid white;
+
+}
+
+.formulario form fieldset legend{
+	color:#512E5F;
+	font-family: 'Stylish', sans-serif;
+	font-weight: bold;
+	font-size: 1.25em;
+
+}
+
+.formulario form fieldset label{
+	color:#512E5F;
+	font-family: 'Stylish', sans-serif;
+	font-weight: bold;
+	font-size: 1em;
+	display:block;
+
+}
